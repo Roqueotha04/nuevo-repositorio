@@ -28,8 +28,8 @@ public class Empleado {
         System.out.println("Nombre y Apellido: " + this.Nombre + this.Apellido);
         System.out.println("Dni: " + this.Dni);
         System.out.println("Salario Mensual: " + this.SalarioMensual);
+        System.out.println("--");
     }
-
 
 
     public void setApellido(String apellido) {
